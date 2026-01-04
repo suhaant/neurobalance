@@ -5,6 +5,8 @@
 
 NeuroBalance leverages real-time eye-tracking technology to monitor patient reflexes and coordination through a Pong-style game, providing healthcare professionals with quantified insights into neurodegeneration progression.
 
+WATCH VIDEO DEMO HERE: https://www.youtube.com/watch?v=ZqUpHCXDKHU
+
 ## 🎯 Problem Statement
 
 Parkinson's disease causes inevitable loss of eye coordination due to impaired cerebrospinal fluid (CSF) circulation and neurodegeneration. Traditional assessment methods are often:
